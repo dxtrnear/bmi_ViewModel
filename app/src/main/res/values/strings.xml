@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">bmi_mvm</string>
+    <string name="result">bmi is : %1$s</string>
+    <string name="height">height is %1$</string>
+    <string name="weight">%1$ weight))</string>
+    <string name="bmi_calculator_mvm_version">%1$s.bmi calculator mvm version</string>
+</resources>
